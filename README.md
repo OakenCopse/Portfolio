@@ -23,5 +23,7 @@ https://www.wrike.com/project-management-guide/  Found; Thorough and eloquent gu
 
 Leads to insecure webside, copyright statement refers to 2001.  Research pass due to date material.
 
+https://www.wrike.com/agile-guide/
 
+Read general overview to gain understanding of the general environment, resource saved for further review pending need to know for project.
 
